@@ -1,1 +1,1 @@
-This is another file from hello.txt to merge
+This is another file from hello to merge
